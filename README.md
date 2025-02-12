@@ -1,1 +1,1 @@
-https://github.com/Vujasin-code/bootstrap-page.git
+(https://vujasin-code.github.io/bootstrap-page/)
